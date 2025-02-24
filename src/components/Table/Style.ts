@@ -32,7 +32,7 @@ export const Table = styled.table`
   }
 
   @media screen and (min-width: 300px) and (max-width: 800px) {
-    width: 70%;
+    width: 85%;
     margin: 0 auto;
   }
 `;
