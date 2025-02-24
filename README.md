@@ -35,7 +35,7 @@
   <br>
   entre na pasta:
   <br>
-    <code> cd teste.pratico_btalent </code>
+    <code> cd teste_pratico_btalent </code>
   <br>
   Install dependencies:
   <br>
