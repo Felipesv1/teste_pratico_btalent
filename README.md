@@ -8,7 +8,7 @@
 
 <!-- Project Description -->
 <p align="center">
- permite que você visualize uma tabela com dados de funcionários que estão vindo de uma api simulada, contendo um input para você buscar um ou mais funcionários que estejam na tabela
+ permite que você visualize uma tabela com dados de funcionários que estão vindo de uma api simulada, contendo um input para você buscar um ou mais funcionários que estejam na tabela, a busca pode ser pelo nome, cargo ou telefone
 </p>
 
 <!-- Technologies -->
