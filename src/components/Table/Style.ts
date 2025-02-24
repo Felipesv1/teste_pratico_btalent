@@ -3,16 +3,15 @@ import styled from "styled-components";
 export const Layout_table = styled.div`
   width: 100%;
   height: 75vh;
-  border-radius: 8px 8px 0 0; /* Arredonda as bordas superiores */
-  background-color: aliceblue;
-  overflow: hidden; /* Garante que as bordas arredondadas do Layout_table sejam visíveis */
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 `;
 
 export const Table = styled.table`
   border-collapse: collapse;
   width: 100%;
   height: 100%;
-  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 
   thead {
     width: 100%;
@@ -30,6 +29,11 @@ export const Table = styled.table`
   }
   tbody tr:last-child {
     border-bottom: none;
+  }
+
+  @media screen and (min-width: 300px) and (max-width: 800px) {
+    width: 70%;
+    margin: 0 auto;
   }
 `;
 

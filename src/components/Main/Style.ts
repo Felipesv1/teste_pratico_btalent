@@ -16,6 +16,12 @@ export const Box_title_and_search = styled.div`
   h2 {
     font-weight: 500;
   }
+
+  @media screen and (min-width: 300px) and (max-width: 800px) {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+  }
 `;
 export const Box_search = styled.div`
   width: 287px;
