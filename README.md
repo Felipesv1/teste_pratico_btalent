@@ -23,7 +23,7 @@
   <li>caso você não tenha, instale o pacote json-server usando o gerenciador de pacote da sua preferência  <br>
  exemplo<code>npm install json-server</code> para rodar a api simulada</li>
   <li>clone o repositorio da api simulada que é https://github.com/BeMobile/desafio-front-end</li>
-  <li>entre na pasta do projeto, em sua máquina, e, por meio da linha de comando, execute o comando <code> json-server --watch db.json  <code>  ou se não funcionar o primeiro comando <code> npx json-server --watch db.json </code>, para consumir a API simulada;</li>
+  <li>entre na pasta do projeto, em sua máquina, e, por meio da linha de comando, execute o comando <code> json-server --watch db.json </code> ou se não funcionar o primeiro comando <code> npx json-server --watch db.json </code>, para consumir a API simulada;</li>
   <li> a Api tem que estar rodando pra funcionar o projeto</li>
 </ul>
 
