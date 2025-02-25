@@ -37,11 +37,11 @@
   <br>
   <code>cd teste_pratico_btalent</code>
   <br>
-  Install dependencies:
+  Instale as dependências:
   <br>
   <code>npm install</code>
   <br>
-  Start the application:
+  Rode a aplicação:
   <br>
   <code>npm run dev</code>
 </p>
